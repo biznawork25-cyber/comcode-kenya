@@ -1,0 +1,20 @@
+[
+  {
+    "id": "weekly",
+    "name": "Weekly",
+    "interval": "week",
+    "amount_kes": 150
+  },
+  {
+    "id": "monthly",
+    "name": "Monthly",
+    "interval": "month",
+    "amount_kes": 550
+  },
+  {
+    "id": "yearly",
+    "name": "Yearly",
+    "interval": "year",
+    "amount_kes": 6500
+  }
+]
